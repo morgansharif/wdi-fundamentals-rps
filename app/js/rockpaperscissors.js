@@ -1,6 +1,6 @@
 ////////////////////////////////////////////////
 /*   Provided Code - Please Don't Edit   */
-////////////////////////////////////////////////
+/////////// /////////////////////////////////////
 'use strict';
 
 function getInput() {
@@ -52,4 +52,3 @@ function playToFive() {
     /* YOUR CODE HERE */
     return [playerWins, computerWins];
 }
-
